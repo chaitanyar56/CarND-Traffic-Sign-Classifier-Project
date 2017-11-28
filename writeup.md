@@ -8,8 +8,8 @@
 
 [image4]: ./output/30_1.jpg "Grayscaling"
 [image5]: ./output/30g.jpg "Original"
-[image6]: ./output/my_img.png "Images from Internet"
-[image7]: ./output/myimg.png "Results"
+[image6]: ./output/my_img.jpg "Images from Internet"
+[image7]: ./output/myimg.jpg "Results"
 
 
 ---
